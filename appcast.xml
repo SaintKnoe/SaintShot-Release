@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>SaintShot 更新</title>
+    <link>https://github.com/SaintKnoe/SaintShot-Release/releases</link>
+    <description>SaintShot macOS 正式发布版本</description>
+    <language>zh-CN</language>
+    <item>
+      <title>SaintShot 0.2.18</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.18</link>
+      <description>更新应用图标。</description>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.18/SaintShot-0.2.18.dmg" sparkle:edSignature="qYVa/PBwjzy9aBYGDvCq9cbCvylSsR8Q5RAa/iqadcmBPWor1E40DJ4fZ7B8GvWmkQUd1VN9EeAdJ6WnCgEKAw==" length="829183" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
