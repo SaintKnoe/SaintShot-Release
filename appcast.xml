@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.19</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.19</link>
+      <description>新增自动更新设置和手动检查更新。</description>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.2.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.19/SaintShot-0.2.19.dmg" sparkle:edSignature="3Y2f777l59vaaWhawA53Vi+JuC89M/cJ8W5cMUr/VzUKNoGV6+pgNWsAwhRn4SflPNPRGbskT5hpKgYcwnhbCw==" length="1844442" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.18</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.18</link>
       <description>更新应用图标。</description>
