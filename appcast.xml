@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.23</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.23</link>
+      <description>修复滚动截图录入自身绿框和预览的问题。</description>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.23/SaintShot-0.2.23.dmg" sparkle:edSignature="j71w1YyXTPJhydiDjy6TMbHyfv6w1GQNGsFeNurrSnIM2p7rBbSu071YaQiFIJsz6Xl8HJ+h2RsruLRXX9OPCg==" length="1848007" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.22</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.22</link>
       <description>修复 0.2.20 引入的 Retina 截图裁剪比例错误及内容放大问题。</description>
