@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.22</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.22</link>
+      <description>修复 0.2.20 引入的 Retina 截图裁剪比例错误及内容放大问题。</description>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.22/SaintShot-0.2.22.dmg" sparkle:edSignature="wCqZ/2v0AGRP3CRInWPxpy/pGloPoP+jFqpDcpQ4jsmc/bE6yzIb0HaKnOwd2TCpt+pUZzoyzHMElH6K8sFvCw==" length="1846191" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.21</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.21</link>
       <description>加快截图界面显示，修正 Retina 屏幕复制后的图片尺寸。</description>
