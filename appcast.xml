@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.21</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.21</link>
+      <description>加快截图界面显示，修正 Retina 屏幕复制后的图片尺寸。</description>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.2.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.21/SaintShot-0.2.21.dmg" sparkle:edSignature="GQaVe/P7nz09QnHUlmL6kp1GVPwJZlFtc5eB8NK+ZypQ6LGy/kz/frckCiiXUbtXo/mMyYo80euJDnrzcZcgAQ==" length="1845213" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.20</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.20</link>
       <description>预加载截图编辑器，双击截图区域直接复制。</description>
