@@ -6,7 +6,7 @@ SaintShot 是 macOS 原位截图和标注工具。支持区域与窗口截图、
 
 [下载最新版本](https://github.com/SaintKnoe/SaintShot-Release/releases/latest)
 
-当前版本：0.2.24。需要 macOS 14 或更新版本；系统翻译需要 macOS 15 或更新版本。
+当前版本：0.2.25。需要 macOS 14 或更新版本；系统翻译需要 macOS 15 或更新版本。
 
 下载 DMG 后，将 SaintShot 拖入“应用程序”文件夹再打开。首次使用截图需要允许屏幕录制权限。
 

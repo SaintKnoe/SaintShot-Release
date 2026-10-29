@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.25</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.25</link>
+      <description>改善翻译等待与首次绘制；采用不透明工具栏和直接样式按钮，支持更大的 Emoji 马赛克图案并移除像素样式。</description>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.2.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.25/SaintShot-0.2.25.dmg" sparkle:edSignature="x5jQ4ifWjxNCgmtS78zvqSzPR5sXCKW+JnpHaAth7a1/kzTyEnu/KFCLSuQVPhkgRJTWBb6CALkBXn/CoXsGAw==" length="1631741" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.24</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.24</link>
       <description>优化截图启动和滚动采集内存，修复开机启动设置及再次截图后工具栏隐藏。</description>
