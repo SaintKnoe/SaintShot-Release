@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.26</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.26</link>
+      <description>修复选中标注工具后无法双击复制的问题，并避免双击额外留下马赛克笔迹。</description>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.2.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.26/SaintShot-0.2.26.dmg" sparkle:edSignature="X5dDe9jA6MIk/34MgBSmeAfdfHLGJscMvu46mOJd5WEWQmtUiMftjw9tFv1uj2BI8eGz2bGYTXgpFMPowuiyCg==" length="1631559" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.25</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.25</link>
       <description>改善翻译等待与首次绘制；采用不透明工具栏和直接样式按钮，支持更大的 Emoji 马赛克图案并移除像素样式。</description>
