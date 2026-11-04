@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.28</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.28</link>
+      <description>新增设置中的辅助功能权限入口，调整自动滚动事件与指针定位，重新设计滚动截图面板。</description>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.2.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.28/SaintShot-0.2.28.dmg" sparkle:edSignature="129F6+axgeHd0UHjfNKsF1M0k4+1JFIPjuoI24aE08v5z7zd7ivqLkBQM2uQm1df1aj6I6OquAxEbhtztz4bAQ==" length="1940185" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.27</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.27</link>
       <description>新增向上、向下自动滚动及手动接管，改善双向拼接与重叠内容校验；自动滚动需辅助功能权限。</description>
