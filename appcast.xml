@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.27</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.27</link>
+      <description>新增向上、向下自动滚动及手动接管，改善双向拼接与重叠内容校验；自动滚动需辅助功能权限。</description>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.2.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.27/SaintShot-0.2.27.dmg" sparkle:edSignature="1wEpas3ikV1sKvSouNl/PPIPknheSA6NFA2jOvqRiGNzRaZOOGjPUyOiHmDTNXmM2Zbm5Z3zoPqVnVpGj5IzBg==" length="1662648" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.26</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.26</link>
       <description>修复选中标注工具后无法双击复制的问题，并避免双击额外留下马赛克笔迹。</description>
