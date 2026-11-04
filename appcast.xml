@@ -6,6 +6,15 @@
     <description>SaintShot macOS 正式发布版本</description>
     <language>zh-CN</language>
     <item>
+      <title>SaintShot 0.2.31</title>
+      <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.31</link>
+      <description>滚动截图改用 Snapzy 裁条与合成导出，支持向上适配；改进自动滚动恢复，并允许复制已拼接部分。</description>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.2.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/SaintKnoe/SaintShot-Release/releases/download/v0.2.31/SaintShot-0.2.31.dmg" sparkle:edSignature="oCsrLeW+9XpabmUe89Y6Iq70EmDhRsSN58sv5jix/U4J171Lib6ykBLeR58Rz+3w1FfWFC7Q5AlXpnnb4kKOAA==" length="2038448" type="application/octet-stream" />
+    </item>
+    <item>
       <title>SaintShot 0.2.29</title>
       <link>https://github.com/SaintKnoe/SaintShot-Release/releases/tag/v0.2.29</link>
       <description>优化自动滚动提前暂停判断，等待最新画面并重试短暂对齐失败；滚动页采用截图工具栏同款紧凑样式。</description>
